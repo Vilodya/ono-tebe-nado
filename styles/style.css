@@ -40,7 +40,7 @@
   width: 136px;
 }
 
-.header__adress {
+.header__address {
   justify-self: end;
 }
 
@@ -50,7 +50,7 @@
   line-height: 135%;
 }
 
-.adress__phone, .ardress__mail {
+.address__phone, .address__mail {
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
