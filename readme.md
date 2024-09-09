@@ -1,1 +1,0 @@
-https://github.com/Vilodya/ono-tebe-nado.git
