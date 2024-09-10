@@ -50,7 +50,7 @@
   line-height: 135%;
 }
 
-.address__phone, .address__mail {
+.address__contact-link {
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
